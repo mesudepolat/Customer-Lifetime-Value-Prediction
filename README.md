@@ -2,9 +2,8 @@
 
 ## Project Steps
 
-Connect to the database and extract data
-
-Customer segmentation with RFM
+* Connect to the database and extract data
+* Customer segmentation with RFM
 
 Calculation Customer Lifetime Value in basic concept
 
